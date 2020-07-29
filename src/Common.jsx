@@ -1,6 +1,6 @@
 import React from 'react';
 //import  './index.css';
-import web from "../src/images/img2.svg";
+//import web from "../src/images/img2.svg";
 import{NavLink} from "react-router-dom";
 
 
